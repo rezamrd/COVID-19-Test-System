@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-FinalProject",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-FinalProject",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
